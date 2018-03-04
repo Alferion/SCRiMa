@@ -35,3 +35,10 @@ Steps in using the system:
 
 *note: you may only train the system once in order to detect and classify the mangoes in the selected image
 
+
+
+Other Authors:
+Elaine Gallo
+JV Llana
+Ross Peralta
+John Regalado
